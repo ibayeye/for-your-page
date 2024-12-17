@@ -1,0 +1,9 @@
+{
+    "routes": [
+      {
+        "src": "/",
+        "dest": "/hbd.html"
+      }
+    ]
+  }
+  
